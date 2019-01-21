@@ -10,8 +10,7 @@
         android:id="@+id/textView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="TextView"
+        android:text="Testing"
         tools:layout_editor_absoluteX="116dp"
-        tools:layout_editor_absoluteY="106dp"
-        tools:text="Testing" />
+        tools:layout_editor_absoluteY="106dp" />
 </android.support.constraint.ConstraintLayout>
